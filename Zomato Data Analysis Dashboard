@@ -1,0 +1,31 @@
+Zomato Data Analysis Dashboard
+
+ 📊 Project Overview
+An interactive Excel dashboard created to analyze Zomato restaurant data and identify key trends across countries, cities, pricing ranges, and ratings.
+
+ 🛠️ Tools & Skills
+- Microsoft Excel
+- PivotTables & PivotCharts
+- Data Cleaning & Transformation
+- Data Analysis
+- Dashboard Design
+- Interactive Slicers
+
+📌 Key Analysis
+- Total Restaurants
+- Countries & Cities
+- Average Restaurant Rating
+- Average Cost for Two
+- Top 10 Cities by Restaurant Count
+- Restaurants by Country
+- Restaurants by Pricing Range
+- Restaurant Count by Rating
+
+## 📈 Dashboard
+The project includes an interactive dashboard with KPIs, charts, and a country slicer for exploring the data.
+
+## 📂 Dataset
+Zomato restaurant dataset containing information about restaurants, locations, ratings, pricing, and other attributes.
+
+
+Vikash Gupta
